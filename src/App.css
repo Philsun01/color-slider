@@ -18,6 +18,6 @@ input {
   flex-direction: column;
 }
 .colorSwatch {
-  width: 5rem;
-  height: 5rem;
+  width: 10rem;
+  height: 10rem;
 }
